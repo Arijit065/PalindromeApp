@@ -23,4 +23,5 @@ public class PalindromeApp {
 
         scanner.close();
     }
+
 }
